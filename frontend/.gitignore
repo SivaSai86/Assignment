@@ -24,13 +24,7 @@ yarn-error.log*
 
 
 
-# Dependency folders
 node_modules/
-frontend/node_modules/
 Backend/node_modules/
-
-# Environment variables
+frontend/node_modules/
 .env
-
-# Build folders
-frontend/build/
